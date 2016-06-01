@@ -1,0 +1,7 @@
+[package]
+name = "rtt"
+version = "0.1.0"
+authors = ["Grissess <grissess@nexusg.org>"]
+
+[dependencies]
+hamt = {git = "https://github.com/michaelwoerister/rs-persistent-datastructures.git"}
